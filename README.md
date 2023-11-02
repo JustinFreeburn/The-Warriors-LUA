@@ -5,4 +5,3 @@ Please visit the Wiki page below to contribute.
 <br><br>
 <a href="https://github.com/JustinFreeburn/The-Warriors-LUA/wiki">The Warriors LUA Wiki!</a>
 </p>
-
